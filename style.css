@@ -1,0 +1,129 @@
+.hero {
+  background-image: url("sc-media-group-background.jpeg");
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.navbar-mobile {
+  background-image: url("group1.png");
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero-text {
+  color: white;
+  text-align: center;
+}
+
+.hero-text h1 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.hero-text p {
+  font-size: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.hero-btn {
+  margin-top: 2rem;
+}
+
+/* Features Section */
+.features {
+  padding: 4rem 0;
+}
+
+.features-text {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.features-text h2 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.features-text p {
+  font-size: 1.5rem;
+}
+
+.features-icons {
+  display: flex;
+  justify-content: center;
+}
+
+.features-icon {
+  margin: 1rem;
+  text-align: center;
+}
+
+.features-icon i {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+/* Pricing Section */
+.pricing {
+  padding: 4rem 0;
+}
+
+.pricing h2 {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.card {
+  border: none;
+}
+
+.card-body {
+  text-align: center;
+}
+
+.price {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin-bottom: 2rem;
+}
+
+ul li {
+  margin-bottom: 1rem;
+}
+
+/* Footer Section */
+footer {
+  padding: 2rem 0;
+  background-color: #f8f9fa;
+  text-align: center;
+}
+
+footer p {
+  margin: 0;
+  font-size: 1.2rem;
+}
+.navbar {
+  min-height: 50px;
+}
+
+.navbar-brand {
+  height: 50px;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.navbar-brand img {
+  height: 100%;
+}
